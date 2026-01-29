@@ -146,6 +146,14 @@ python data_download.py
 bash eval/eval.sh
 ```
 
+## 📌 Examples
+
+<div align="center">
+    <img src="assets/results.png" alt="results" width="100%">
+</div>
+
+**Qualitative results** across four typical camera movements. For each case, we visualize the temporal frame sequence alongside the CamReasoner-7B response. The model demonstrates robust spatial reasoning by generating detailed *<observation>* of visual cues and a logical *<think>* process to accurately identify the movement and provide the final *<answer>*.
+
 ## 📝 Acknowledgements
 
 We sincerely appreciate the contributions of the open-source community. The related projects are as follows: 
