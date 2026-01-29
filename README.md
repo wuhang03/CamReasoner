@@ -2,11 +2,11 @@
 <!-- <a target="_blank"><img src="figs/VCD_logo_title.png" alt="Visual Contrastive Decoding" style="width: 75%; min-width: 200px; display: block; margin: auto;"></a>
 </p> -->
 
-<center>
+<div align="center">
 
 # CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Reasoning
 
-</center>
+</div>
 
 
 
@@ -47,7 +47,7 @@
       <sup>2</sup>The University of Queensland, 
       <br><sup>3</sup>Institute of Computing Technology, Chinese Academy of Sciences,
       <br><sup>4</sup>University at Buffalo, State University of New York
-      <br><sup>5</sup>Ant Group
+      <sup>5</sup>Ant Group
     </span>
     <span class="eql-cntrb"><small><br><sup>†</sup>Indicates Corresponding Author</small></span>
   </div>
