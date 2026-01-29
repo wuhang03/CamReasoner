@@ -1,0 +1,122 @@
+[
+  {
+    "problem_id": "only_pedestal_down_vs_has_pedestal_down_and_not_only.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move downward (not tilting down) with respect to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8iZ8RtiJq14.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_pedestal_down_vs_has_pedestal_down_and_not_only.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move downward (not tilting down) with respect to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.16.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_pedestal_down_vs_has_pedestal_down_and_not_only.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just move physically downward?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8iZ8RtiJq14.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_pedestal_down_vs_has_pedestal_down_and_not_only.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just move physically downward?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.16.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_pedestal_down_vs_has_pedestal_down_and_not_only.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move downward (not tilting down) with respect to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_pedestal_down_vs_has_pedestal_down_and_not_only.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move downward (not tilting down) with respect to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "iXzposKQzvs.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_pedestal_down_vs_has_pedestal_down_and_not_only.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just move physically downward?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_pedestal_down_vs_has_pedestal_down_and_not_only.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just move physically downward?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "iXzposKQzvs.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

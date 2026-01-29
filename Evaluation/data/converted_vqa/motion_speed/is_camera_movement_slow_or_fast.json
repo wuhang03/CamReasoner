@@ -1,0 +1,3062 @@
+[
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "187.6.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "187.6.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RZs5Hz1klno.5.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RZs5Hz1klno.5.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CbIWq4PGFCo.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0Pzq0URbL2M.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CbIWq4PGFCo.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0Pzq0URbL2M.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mIiPt1YVkP8.5.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mIiPt1YVkP8.5.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "yGsVo0uIJVs.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0u4NY-YtVII.6.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "yGsVo0uIJVs.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0u4NY-YtVII.6.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_20",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "VaSlqE0Nx2Q.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_21",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "2053420.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_22",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "VaSlqE0Nx2Q.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_23",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "2053420.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_24",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mIiPt1YVkP8.11.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_25",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1560.0.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_26",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mIiPt1YVkP8.11.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_27",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1560.0.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_28",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "9c0f08e0b5320fa4c6feb8137f23143e9c72587815db316a221da5a97ad8c755.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_29",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZBsv_5fHtIg.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_30",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "9c0f08e0b5320fa4c6feb8137f23143e9c72587815db316a221da5a97ad8c755.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_31",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZBsv_5fHtIg.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_32",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "iXzposKQzvs.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_33",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "GjEImPidK4g.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_34",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "iXzposKQzvs.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_35",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "GjEImPidK4g.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_36",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "BKX6EhDrgqQ.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_37",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0u4NY-YtVII.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_38",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "BKX6EhDrgqQ.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_39",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0u4NY-YtVII.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_40",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mixkit-snowy-mountain-in-canada-full-of-pine-trees-3390.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_41",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3m-ME9AXCTo.1.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_42",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mixkit-snowy-mountain-in-canada-full-of-pine-trees-3390.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_43",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3m-ME9AXCTo.1.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_44",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4022437.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_45",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "fT6olrwrjnI.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_46",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4022437.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_47",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "fT6olrwrjnI.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_48",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "VKre9_wM3Mo.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_49",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "_I6Y-rtiTPc.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_50",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "VKre9_wM3Mo.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_51",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "_I6Y-rtiTPc.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_52",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mixkit-beautiful-dusk-on-a-large-lake-from-above-5005.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_53",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "lTxn2BuqyzU.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_54",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mixkit-beautiful-dusk-on-a-large-lake-from-above-5005.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_55",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "lTxn2BuqyzU.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_56",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.11.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_57",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "c41pRPO9TQk.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_58",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.11.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_59",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "c41pRPO9TQk.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_60",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.11.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_61",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IAVXdvsmqBM.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_62",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.11.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_63",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IAVXdvsmqBM.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_64",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "qMeHR2Dc4mQ.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_65",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "PIvOfcR77SQ.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_66",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "qMeHR2Dc4mQ.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_67",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "PIvOfcR77SQ.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_68",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MuNyfqxAO6Y.8.20.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_69",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CjPSzAtLzO8.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_70",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MuNyfqxAO6Y.8.20.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_71",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CjPSzAtLzO8.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_72",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MuNyfqxAO6Y.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_73",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RxrFsOEIRCE.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_74",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MuNyfqxAO6Y.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_75",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RxrFsOEIRCE.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_76",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "xo9p8p6deRI.10.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_77",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8ouj_JN2ytI.0.25.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_78",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "xo9p8p6deRI.10.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_79",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8ouj_JN2ytI.0.25.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_80",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ti231UvSvfQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_81",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6YDWsGwz2lI.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_82",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ti231UvSvfQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_83",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6YDWsGwz2lI.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_84",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "pNGMY3xVkVE.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_85",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "F7iLfuci75Y.6.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_86",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "pNGMY3xVkVE.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_87",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "F7iLfuci75Y.6.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_88",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "X-keHLL75tg.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_89",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "2KuVjf4uB9k.0.12.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_90",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "X-keHLL75tg.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_91",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "2KuVjf4uB9k.0.12.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_92",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5eDQ2SSsmEk.15.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_93",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1560.0.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_94",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5eDQ2SSsmEk.15.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_95",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1560.0.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_96",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "L0zS8z8YqJ8.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_97",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1560.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_98",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "L0zS8z8YqJ8.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_99",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1560.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_100",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "u-dEnJpCGAQ.15.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_101",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "wq1iqovmqOA.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_102",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "u-dEnJpCGAQ.15.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_103",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "wq1iqovmqOA.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_104",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.8.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_105",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3epU697sU9E.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_106",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.8.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_107",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3epU697sU9E.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_108",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Vm-b2AVwARw.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_109",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KdfhMulBsyk.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_110",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Vm-b2AVwARw.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_111",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KdfhMulBsyk.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_112",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "154586.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_113",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "PIvOfcR77SQ.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_114",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "154586.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_115",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "PIvOfcR77SQ.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_116",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.42.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_117",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3pxrECZYEAA.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_118",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.42.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_119",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3pxrECZYEAA.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_120",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3zU-4Ft0MKQ.6.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_121",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RxrFsOEIRCE.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_122",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3zU-4Ft0MKQ.6.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_123",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RxrFsOEIRCE.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_124",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CbIWq4PGFCo.1.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_125",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "OCBYMQzG44U.2.23.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_126",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CbIWq4PGFCo.1.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_127",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "OCBYMQzG44U.2.23.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_128",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_129",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "2KuVjf4uB9k.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_130",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_131",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "2KuVjf4uB9k.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_132",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "hHG1wva1B0w.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_133",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "88vmzn_LufA.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_134",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "hHG1wva1B0w.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_135",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "88vmzn_LufA.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_136",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Vm-b2AVwARw.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_137",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CjPSzAtLzO8.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_138",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Vm-b2AVwARw.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_139",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CjPSzAtLzO8.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_140",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CbIWq4PGFCo.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_141",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Hby08EPZV1c.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_142",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CbIWq4PGFCo.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_143",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Hby08EPZV1c.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_144",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "y0aS2n1WmMg.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_145",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "O6_XM2Mn0lg.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_146",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "y0aS2n1WmMg.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_147",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "O6_XM2Mn0lg.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_148",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "xo9p8p6deRI.10.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_149",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "338.2.30.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_150",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "xo9p8p6deRI.10.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_151",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "338.2.30.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_152",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_153",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1560.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_154",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_155",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1560.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_156",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8ouj_JN2ytI.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_157",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "fT6olrwrjnI.5.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_158",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8ouj_JN2ytI.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_159",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "fT6olrwrjnI.5.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_160",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3epU697sU9E.8.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_161",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "B_8bbKn3amE.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_162",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3epU697sU9E.8.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_163",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "B_8bbKn3amE.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_164",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CbIWq4PGFCo.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_165",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "yQLgp8trSDc.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_166",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CbIWq4PGFCo.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_167",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "yQLgp8trSDc.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_168",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "qMeHR2Dc4mQ.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_169",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RIz3klPET3o.1.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_170",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "qMeHR2Dc4mQ.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_171",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RIz3klPET3o.1.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_172",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "VKre9_wM3Mo.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_173",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5679.1.20.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_174",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "VKre9_wM3Mo.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_175",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5679.1.20.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_176",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "QaRnEZFM6ZQ.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_177",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "-2uIa-XMJC0.5.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_178",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "QaRnEZFM6ZQ.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_179",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "-2uIa-XMJC0.5.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_180",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KdfhMulBsyk.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_181",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.20.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_182",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KdfhMulBsyk.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_183",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.20.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_184",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5eDQ2SSsmEk.9.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_185",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "sLX9J2NBL3w.0.12.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_186",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5eDQ2SSsmEk.9.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_187",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "sLX9J2NBL3w.0.12.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_188",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "z9Bw94k7AxQ.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_189",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "338.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_190",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "z9Bw94k7AxQ.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_191",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "338.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_192",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "LZkl0_9xFOU.14.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_193",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5454.1.17.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_194",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "LZkl0_9xFOU.14.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_195",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5454.1.17.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_196",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_197",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "69PPD7ZUJPc.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_198",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_199",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "69PPD7ZUJPc.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_200",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3epU697sU9E.5.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_201",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a slow motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "sKJeTaIEldM.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_202",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3epU697sU9E.5.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "is_camera_movement_slow_or_fast.jsonl_203",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera have noticeable motion but at a fast motion speed?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "sKJeTaIEldM.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

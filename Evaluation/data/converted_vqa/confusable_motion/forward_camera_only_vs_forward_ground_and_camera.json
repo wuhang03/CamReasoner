@@ -1,0 +1,302 @@
+[
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward only relative to its initial viewing direction but not relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "fP5UM4elIes.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward only relative to its initial viewing direction but not relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RZs5Hz1klno.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward relative to both the ground and its initial viewing direction?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "fP5UM4elIes.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward relative to both the ground and its initial viewing direction?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RZs5Hz1klno.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward only relative to its initial viewing direction but not relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KB3KMUw54Hc.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward only relative to its initial viewing direction but not relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "OCBYMQzG44U.21.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward relative to both the ground and its initial viewing direction?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KB3KMUw54Hc.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward relative to both the ground and its initial viewing direction?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "OCBYMQzG44U.21.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward only relative to its initial viewing direction but not relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3HYfPz8lvDI.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward only relative to its initial viewing direction but not relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "nGJMwixogyk.5.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward relative to both the ground and its initial viewing direction?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3HYfPz8lvDI.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward relative to both the ground and its initial viewing direction?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "nGJMwixogyk.5.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward only relative to its initial viewing direction but not relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "xo9p8p6deRI.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward only relative to its initial viewing direction but not relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Vm-b2AVwARw.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward relative to both the ground and its initial viewing direction?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "xo9p8p6deRI.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward relative to both the ground and its initial viewing direction?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Vm-b2AVwARw.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward only relative to its initial viewing direction but not relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward only relative to its initial viewing direction but not relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "M0jmSsQ5ptw.3.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward relative to both the ground and its initial viewing direction?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "forward_camera_only_vs_forward_ground_and_camera.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move forward relative to both the ground and its initial viewing direction?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "M0jmSsQ5ptw.3.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.16.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.16.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "kSx5KGOv5Qc.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "iXzposKQzvs.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "kSx5KGOv5Qc.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "iXzposKQzvs.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "_I6Y-rtiTPc.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "_I6Y-rtiTPc.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "rfg9l66Eskw.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1934.1.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "rfg9l66Eskw.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1934.1.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5e7Kk3WEFAA.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.1.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5e7Kk3WEFAA.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.1.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_20",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "aVA7aXOH1pk.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_21",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "338.2.32.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_22",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "aVA7aXOH1pk.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_23",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "338.2.32.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_24",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0u4NY-YtVII.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_25",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JDaw5I_5hPk.0.19.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_26",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0u4NY-YtVII.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_27",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JDaw5I_5hPk.0.19.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_28",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "u-dEnJpCGAQ.15.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_29",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6h6bMAWLYAI.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_30",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "u-dEnJpCGAQ.15.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_31",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6h6bMAWLYAI.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_32",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4PcpGxihPac.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_33",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "H4AZhS5WqKk.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_34",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4PcpGxihPac.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_35",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "H4AZhS5WqKk.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_36",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3HYfPz8lvDI.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_37",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4PcpGxihPac.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_38",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3HYfPz8lvDI.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_39",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4PcpGxihPac.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_40",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0Pzq0URbL2M.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_41",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "px9IqOnilHI.1.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_42",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0Pzq0URbL2M.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_43",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "px9IqOnilHI.1.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_44",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "awPo_VZabRc.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_45",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "9H942RAVrHQ.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_46",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "awPo_VZabRc.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_47",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "9H942RAVrHQ.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_48",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_49",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "HasIb5pfWkQ.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_50",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_51",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "HasIb5pfWkQ.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_52",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "yQLgp8trSDc.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_53",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4021529.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_54",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "yQLgp8trSDc.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_55",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4021529.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_56",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5454.1.17.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_57",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "h1PjJ9_Yd2c.2.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_58",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5454.1.17.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_59",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "h1PjJ9_Yd2c.2.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_60",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.7.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_61",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only zoom in with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "pNGMY3xVkVE.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_62",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.7.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_zoom_in_vs_has_zoom_in_and_not_only.jsonl_63",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "pNGMY3xVkVE.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

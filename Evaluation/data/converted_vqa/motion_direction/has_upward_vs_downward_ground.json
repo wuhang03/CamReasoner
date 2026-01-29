@@ -1,0 +1,1382 @@
+[
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "F7iLfuci75Y.9.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KF5p8VIbt0Y.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "F7iLfuci75Y.9.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KF5p8VIbt0Y.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KF5p8VIbt0Y.6.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "L0zS8z8YqJ8.2.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KF5p8VIbt0Y.6.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "L0zS8z8YqJ8.2.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "rs4B8-qoY1I.3.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0OFBj7EjZ-g.4.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "rs4B8-qoY1I.3.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0OFBj7EjZ-g.4.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "dSmZIp41OCM.25.12.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "FfSnJdpFBb8.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "dSmZIp41OCM.25.12.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "FfSnJdpFBb8.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "QYAWxJ8a7RA.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "vEvBpjCOBu0.3.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "QYAWxJ8a7RA.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "vEvBpjCOBu0.3.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_20",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "i82xURPkLWo.2.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_21",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8iZ8RtiJq14.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_22",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "i82xURPkLWo.2.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_23",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8iZ8RtiJq14.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_24",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "xo9p8p6deRI.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_25",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "88vmzn_LufA.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_26",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "xo9p8p6deRI.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_27",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "88vmzn_LufA.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_28",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "dSmZIp41OCM.17.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_29",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "yGsVo0uIJVs.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_30",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "dSmZIp41OCM.17.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_31",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "yGsVo0uIJVs.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_32",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mixkit-beautiful-dusk-on-a-large-lake-from-above-5005.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_33",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CjPSzAtLzO8.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_34",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mixkit-beautiful-dusk-on-a-large-lake-from-above-5005.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_35",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CjPSzAtLzO8.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_36",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.46.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_37",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "rs4B8-qoY1I.11.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_38",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.46.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_39",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "rs4B8-qoY1I.11.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_40",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.12.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_41",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "awPo_VZabRc.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_42",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.12.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_43",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "awPo_VZabRc.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_44",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "hHG1wva1B0w.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_45",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "QYAWxJ8a7RA.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_46",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "hHG1wva1B0w.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_47",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "QYAWxJ8a7RA.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_48",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "HYl9QIJJvdA.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_49",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZU6ZU14lCNI.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_50",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "HYl9QIJJvdA.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_51",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZU6ZU14lCNI.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_52",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "LtXUoaZcp70.6.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_53",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8iZ8RtiJq14.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_54",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "LtXUoaZcp70.6.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_55",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8iZ8RtiJq14.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_56",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "uWCGK4nneeU.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_57",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "M0jmSsQ5ptw.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_58",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "uWCGK4nneeU.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_59",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "M0jmSsQ5ptw.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_60",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Cj6ho1-G6tw.0.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_61",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CBRwF0LU3Ys.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_62",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Cj6ho1-G6tw.0.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_63",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CBRwF0LU3Ys.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_64",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3HYfPz8lvDI.1.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_65",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "OCBYMQzG44U.2.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_66",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3HYfPz8lvDI.1.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_67",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "OCBYMQzG44U.2.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_68",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_69",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KWgkBroB38M.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_70",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_71",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KWgkBroB38M.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_72",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0OFBj7EjZ-g.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_73",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_74",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0OFBj7EjZ-g.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_75",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_76",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "F7iLfuci75Y.7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_77",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4jdZkC33NXw.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_78",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "F7iLfuci75Y.7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_79",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4jdZkC33NXw.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_80",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3epU697sU9E.1.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_81",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6YZW2eeV-6U.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_82",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3epU697sU9E.1.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_83",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6YZW2eeV-6U.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_84",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RZs5Hz1klno.5.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_85",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KoJ0Pih0Ssc.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_86",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RZs5Hz1klno.5.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_87",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KoJ0Pih0Ssc.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_88",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "lz5xvWTodyw.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_89",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move upward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "OCBYMQzG44U.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_90",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "lz5xvWTodyw.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_upward_vs_downward_ground.jsonl_91",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move downward relative to the ground?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "OCBYMQzG44U.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

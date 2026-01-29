@@ -1,0 +1,182 @@
+[
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0OFBj7EjZ-g.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera not following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera not following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0OFBj7EjZ-g.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8ouj_JN2ytI.0.25.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "016570694b24f7fefbc284e65d330e11e053542bd6ae8c24194ac0823b82c1eb.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera not following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8ouj_JN2ytI.0.25.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera not following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "016570694b24f7fefbc284e65d330e11e053542bd6ae8c24194ac0823b82c1eb.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "YakCuBMlQXQ.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "z7HxJaKjVlU.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera not following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "YakCuBMlQXQ.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_rear_side_tracking.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera not following behind the subject at a rear-side angle?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "z7HxJaKjVlU.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

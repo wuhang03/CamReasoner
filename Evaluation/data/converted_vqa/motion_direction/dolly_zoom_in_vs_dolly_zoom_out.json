@@ -1,0 +1,242 @@
+[
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving backward and zooming in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "anEdRKaWM-I.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving backward and zooming in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ttZAdY3n4nc.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving forward and zooming out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "anEdRKaWM-I.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving forward and zooming out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ttZAdY3n4nc.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving backward and zooming in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ttZAdY3n4nc.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving backward and zooming in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KdfhMulBsyk.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving forward and zooming out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ttZAdY3n4nc.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving forward and zooming out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KdfhMulBsyk.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving backward and zooming in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZABX9Cf3KSY.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving backward and zooming in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "yGsVo0uIJVs.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving forward and zooming out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZABX9Cf3KSY.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving forward and zooming out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "yGsVo0uIJVs.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving backward and zooming in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "sKJeTaIEldM.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving backward and zooming in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3005.1.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving forward and zooming out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "sKJeTaIEldM.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "dolly_zoom_in_vs_dolly_zoom_out.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the shot feature a dolly zoom effect with the camera moving forward and zooming out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3005.1.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

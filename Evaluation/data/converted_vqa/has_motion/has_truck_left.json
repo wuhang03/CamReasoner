@@ -1,0 +1,3662 @@
+[
+  {
+    "problem_id": "has_truck_left.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "z7HxJaKjVlU.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "z7HxJaKjVlU.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "yGsVo0uIJVs.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "yGsVo0uIJVs.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "2530.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Hv_DRJZZ2qI.2.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "2530.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Hv_DRJZZ2qI.2.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0OFBj7EjZ-g.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZpJpZGktliQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0OFBj7EjZ-g.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZpJpZGktliQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mIiPt1YVkP8.11.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "upC8hjr2b4g.14.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mIiPt1YVkP8.11.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "upC8hjr2b4g.14.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_20",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "OCBYMQzG44U.30.14.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_21",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MQugcNLFI9k.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_22",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "OCBYMQzG44U.30.14.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_23",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MQugcNLFI9k.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_24",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Ao4Y7JU30zc.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_25",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_26",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Ao4Y7JU30zc.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_27",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_28",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "uWCGK4nneeU.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_29",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3HYfPz8lvDI.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_30",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "uWCGK4nneeU.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_31",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3HYfPz8lvDI.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_32",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MK_p4kzcPVY.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_33",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ce7a2df064c272a750b3eaa0e6ea6aa10e975f2df17b825549ca3c439aaf0317.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_34",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MK_p4kzcPVY.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_35",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ce7a2df064c272a750b3eaa0e6ea6aa10e975f2df17b825549ca3c439aaf0317.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_36",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CjPSzAtLzO8.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_37",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5454.1.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_38",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CjPSzAtLzO8.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_39",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5454.1.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_40",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_41",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5qKYrajRNwo.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_42",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_43",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5qKYrajRNwo.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_44",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "qMeHR2Dc4mQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_45",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Ni7AYED85z4.2.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_46",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "qMeHR2Dc4mQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_47",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Ni7AYED85z4.2.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_48",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "rz8KzLbdS7g.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_49",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5eDQ2SSsmEk.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_50",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "rz8KzLbdS7g.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_51",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5eDQ2SSsmEk.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_52",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_53",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CQYQKehqjgI.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_54",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_55",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CQYQKehqjgI.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_56",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ash8vDNcJBs.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_57",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.4.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_58",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ash8vDNcJBs.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_59",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.4.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_60",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "TktL3QR8Yg8.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_61",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "H4AZhS5WqKk.2.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_62",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "TktL3QR8Yg8.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_63",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "H4AZhS5WqKk.2.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_64",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.7.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_65",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_66",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.7.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_67",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_68",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "GVr8pZmSa-c.6.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_69",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "027bd84e297a500c52d35ab4a67f37e62007e76483baad5687496911e441d65d.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_70",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "GVr8pZmSa-c.6.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_71",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "027bd84e297a500c52d35ab4a67f37e62007e76483baad5687496911e441d65d.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_72",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.15.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_73",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "m3bwXvQoAdo.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_74",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.15.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_75",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "m3bwXvQoAdo.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_76",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZXloF-qGW4U.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_77",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4PcpGxihPac.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_78",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZXloF-qGW4U.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_79",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4PcpGxihPac.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_80",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "154586.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_81",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "60.0.28.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_82",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "154586.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_83",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "60.0.28.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_84",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8iZ8RtiJq14.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_85",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "l5RWa1D00ck.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_86",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8iZ8RtiJq14.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_87",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "l5RWa1D00ck.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_88",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6YDWsGwz2lI.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_89",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "lz5xvWTodyw.8.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_90",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6YDWsGwz2lI.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_91",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "lz5xvWTodyw.8.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_92",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3pxrECZYEAA.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_93",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1497.1.18.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_94",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3pxrECZYEAA.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_95",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1497.1.18.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_96",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "M0jmSsQ5ptw.3.14.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_97",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "LNHBMFCzznE.5.14.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_98",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "M0jmSsQ5ptw.3.14.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_99",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "LNHBMFCzznE.5.14.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_100",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RIz3klPET3o.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_101",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "r5jbhW9uauc.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_102",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RIz3klPET3o.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_103",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "r5jbhW9uauc.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_104",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1hu1np_BI2M.7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_105",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "fP5UM4elIes.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_106",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1hu1np_BI2M.7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_107",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "fP5UM4elIes.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_108",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "rz8KzLbdS7g.8.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_109",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_110",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "rz8KzLbdS7g.8.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_111",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_112",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "sguYb2y3u6w.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_113",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "nGJMwixogyk.5.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_114",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "sguYb2y3u6w.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_115",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "nGJMwixogyk.5.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_116",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KoJ0Pih0Ssc.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_117",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Hv_DRJZZ2qI.2.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_118",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KoJ0Pih0Ssc.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_119",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Hv_DRJZZ2qI.2.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_120",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "-2uIa-XMJC0.6.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_121",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "iXzposKQzvs.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_122",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "-2uIa-XMJC0.6.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_123",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "iXzposKQzvs.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_124",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8iZ8RtiJq14.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_125",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "i82xURPkLWo.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_126",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8iZ8RtiJq14.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_127",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "i82xURPkLWo.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_128",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "wm7U8nEH59o.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_129",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3HYfPz8lvDI.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_130",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "wm7U8nEH59o.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_131",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3HYfPz8lvDI.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_132",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8ouj_JN2ytI.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_133",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "027bd84e297a500c52d35ab4a67f37e62007e76483baad5687496911e441d65d.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_134",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8ouj_JN2ytI.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_135",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "027bd84e297a500c52d35ab4a67f37e62007e76483baad5687496911e441d65d.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_136",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4080.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_137",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.12.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_138",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4080.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_139",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.12.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_140",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "f4ZzHtww6Tc.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_141",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "h1PjJ9_Yd2c.2.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_142",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "f4ZzHtww6Tc.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_143",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "h1PjJ9_Yd2c.2.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_144",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MQugcNLFI9k.7.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_145",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "7jUW96CiEKA.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_146",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MQugcNLFI9k.7.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_147",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "7jUW96CiEKA.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_148",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZkLQqywiwlY.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_149",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "QYAWxJ8a7RA.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_150",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZkLQqywiwlY.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_151",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "QYAWxJ8a7RA.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_152",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_153",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.11.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_154",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_155",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.11.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_156",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_157",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "67bfa4eec893c10cba8c4fb180735bf8adc0c7de5a0cfe1ee9d1c1b44c2e56c8.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_158",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_159",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "67bfa4eec893c10cba8c4fb180735bf8adc0c7de5a0cfe1ee9d1c1b44c2e56c8.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_160",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "vEvBpjCOBu0.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_161",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "FOtmU0oJf-8.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_162",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "vEvBpjCOBu0.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_163",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "FOtmU0oJf-8.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_164",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "px9IqOnilHI.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_165",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "7jUW96CiEKA.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_166",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "px9IqOnilHI.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_167",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "7jUW96CiEKA.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_168",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "r-BCbF55fxo.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_169",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "kxcw0iSn0xw.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_170",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "r-BCbF55fxo.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_171",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "kxcw0iSn0xw.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_172",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KI2lsdXJQ40.0.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_173",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "as8lT-q2_E8.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_174",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KI2lsdXJQ40.0.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_175",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "as8lT-q2_E8.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_176",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3vBUREkRzug.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_177",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1470.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_178",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3vBUREkRzug.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_179",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1470.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_180",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "rz8KzLbdS7g.8.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_181",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "r5jbhW9uauc.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_182",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "rz8KzLbdS7g.8.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_183",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "r5jbhW9uauc.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_184",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_185",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "fUjoIUTFH1I.0.17.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_186",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_187",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "fUjoIUTFH1I.0.17.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_188",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3pxrECZYEAA.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_189",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5eDQ2SSsmEk.4.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_190",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3pxrECZYEAA.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_191",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5eDQ2SSsmEk.4.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_192",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_193",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "9a8a4d0688ffc6b5cb61bc3323634f3dbfbb310ad20130cf56762bfc113e44ed.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_194",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_195",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "9a8a4d0688ffc6b5cb61bc3323634f3dbfbb310ad20130cf56762bfc113e44ed.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_196",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "SsgsWJbroCA.0.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_197",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_198",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "SsgsWJbroCA.0.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_199",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_200",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8iZ8RtiJq14.6.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_201",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4847.13.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_202",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8iZ8RtiJq14.6.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_203",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4847.13.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_204",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "fUjoIUTFH1I.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_205",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "9c0f08e0b5320fa4c6feb8137f23143e9c72587815db316a221da5a97ad8c755.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_206",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "fUjoIUTFH1I.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_207",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "9c0f08e0b5320fa4c6feb8137f23143e9c72587815db316a221da5a97ad8c755.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_208",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "upC8hjr2b4g.7.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_209",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "urgDBUXShos.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_210",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "upC8hjr2b4g.7.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_211",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "urgDBUXShos.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_212",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.7.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_213",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "61.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_214",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.7.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_215",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "61.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_216",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RooDYxp5Fx8.15.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_217",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.33.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_218",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RooDYxp5Fx8.15.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_219",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.33.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_220",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "x6P57x1gx94.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_221",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RYzkI_5ub58.8.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_222",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "x6P57x1gx94.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_223",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RYzkI_5ub58.8.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_224",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_225",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "iXzposKQzvs.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_226",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_227",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "iXzposKQzvs.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_228",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8SphTOiOe6k.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_229",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "BKX6EhDrgqQ.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_230",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8SphTOiOe6k.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_231",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "BKX6EhDrgqQ.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_232",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "VaSlqE0Nx2Q.4.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_233",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8jT9ygmMvMg.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_234",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "VaSlqE0Nx2Q.4.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_235",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8jT9ygmMvMg.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_236",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "t2_J-RVP7EM.10.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_237",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mixkit-snowy-mountain-in-canada-full-of-pine-trees-3390.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_238",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "t2_J-RVP7EM.10.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_239",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mixkit-snowy-mountain-in-canada-full-of-pine-trees-3390.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_240",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MuNyfqxAO6Y.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_241",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IAVXdvsmqBM.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_242",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MuNyfqxAO6Y.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_truck_left.jsonl_243",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any leftward lateral movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IAVXdvsmqBM.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

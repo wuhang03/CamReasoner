@@ -1,0 +1,2942 @@
+[
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0kpu6VM3rZU.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0kpu6VM3rZU.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mIiPt1YVkP8.11.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.11.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mIiPt1YVkP8.11.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.11.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.11.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "338.2.32.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.11.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "338.2.32.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0u4NY-YtVII.6.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RZs5Hz1klno.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0u4NY-YtVII.6.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RZs5Hz1klno.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0u4NY-YtVII.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0u4NY-YtVII.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_20",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0OFBj7EjZ-g.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_21",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "XA2X_JBzkzY.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_22",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0OFBj7EjZ-g.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_23",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "XA2X_JBzkzY.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_24",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "sLX9J2NBL3w.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_25",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "c41pRPO9TQk.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_26",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "sLX9J2NBL3w.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_27",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "c41pRPO9TQk.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_28",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.11.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_29",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3epU697sU9E.10.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_30",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.11.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_31",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3epU697sU9E.10.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_32",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "molA_wwvFbk.9.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_33",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ttZAdY3n4nc.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_34",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "molA_wwvFbk.9.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_35",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ttZAdY3n4nc.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_36",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "kSx5KGOv5Qc.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_37",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3epU697sU9E.1.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_38",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "kSx5KGOv5Qc.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_39",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3epU697sU9E.1.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_40",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "_I6Y-rtiTPc.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_41",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "307.2.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_42",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "_I6Y-rtiTPc.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_43",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "307.2.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_44",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "rfg9l66Eskw.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_45",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "VKre9_wM3Mo.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_46",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "rfg9l66Eskw.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_47",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "VKre9_wM3Mo.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_48",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "PIvOfcR77SQ.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_49",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1hu1np_BI2M.7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_50",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "PIvOfcR77SQ.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_51",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1hu1np_BI2M.7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_52",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5e7Kk3WEFAA.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_53",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "sguYb2y3u6w.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_54",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5e7Kk3WEFAA.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_55",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "sguYb2y3u6w.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_56",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "X-keHLL75tg.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_57",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "lz5xvWTodyw.9.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_58",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "X-keHLL75tg.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_59",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "lz5xvWTodyw.9.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_60",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "aVA7aXOH1pk.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_61",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "187.6.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_62",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "aVA7aXOH1pk.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_63",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "187.6.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_64",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0u4NY-YtVII.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_65",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "QMlfVwN3iTw.7.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_66",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0u4NY-YtVII.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_67",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "QMlfVwN3iTw.7.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_68",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "u-dEnJpCGAQ.15.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_69",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_70",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "u-dEnJpCGAQ.15.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_71",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_72",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KoJ0Pih0Ssc.2.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_73",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3pxrECZYEAA.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_74",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KoJ0Pih0Ssc.2.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_75",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3pxrECZYEAA.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_76",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "iXzposKQzvs.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_77",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.6.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_78",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "iXzposKQzvs.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_79",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.6.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_80",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Uofofz62A2E.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_81",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4PcpGxihPac.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_82",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Uofofz62A2E.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_83",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4PcpGxihPac.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_84",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "X-keHLL75tg.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_85",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_86",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "X-keHLL75tg.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_87",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_88",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mIiPt1YVkP8.12.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_89",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "QMlfVwN3iTw.8.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_90",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mIiPt1YVkP8.12.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_91",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "QMlfVwN3iTw.8.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_92",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4PcpGxihPac.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_93",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3pxrECZYEAA.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_94",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4PcpGxihPac.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_95",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3pxrECZYEAA.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_96",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3epU697sU9E.8.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_97",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KdfhMulBsyk.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_98",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3epU697sU9E.8.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_99",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KdfhMulBsyk.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_100",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "PIvOfcR77SQ.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_101",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "XA2X_JBzkzY.4.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_102",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "PIvOfcR77SQ.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_103",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "XA2X_JBzkzY.4.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_104",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "L0zS8z8YqJ8.2.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_105",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "AhnS92hxqCA.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_106",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "L0zS8z8YqJ8.2.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_107",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "AhnS92hxqCA.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_108",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "qMeHR2Dc4mQ.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_109",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "XA2X_JBzkzY.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_110",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "qMeHR2Dc4mQ.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_111",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "XA2X_JBzkzY.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_112",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3pxrECZYEAA.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_113",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KdfhMulBsyk.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_114",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3pxrECZYEAA.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_115",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KdfhMulBsyk.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_116",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3HYfPz8lvDI.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_117",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "t2_J-RVP7EM.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_118",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3HYfPz8lvDI.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_119",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "t2_J-RVP7EM.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_120",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3pxrECZYEAA.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_121",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "G4kX-P0f0gE.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_122",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3pxrECZYEAA.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_123",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "G4kX-P0f0gE.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_124",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0Pzq0URbL2M.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_125",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5eDQ2SSsmEk.2.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_126",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0Pzq0URbL2M.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_127",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5eDQ2SSsmEk.2.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_128",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "anEdRKaWM-I.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_129",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3epU697sU9E.5.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_130",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "anEdRKaWM-I.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_131",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3epU697sU9E.5.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_132",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "awPo_VZabRc.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_133",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "fT6olrwrjnI.5.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_134",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "awPo_VZabRc.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_135",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "fT6olrwrjnI.5.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_136",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0u4NY-YtVII.4.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_137",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "yQLgp8trSDc.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_138",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0u4NY-YtVII.4.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_139",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "yQLgp8trSDc.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_140",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ttZAdY3n4nc.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_141",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "yGsVo0uIJVs.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_142",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ttZAdY3n4nc.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_143",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "yGsVo0uIJVs.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_144",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "W7S2LT1xay0.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_145",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "NJm86fzxG8s.4.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_146",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "W7S2LT1xay0.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_147",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "NJm86fzxG8s.4.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_148",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_149",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3epU697sU9E.1.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_150",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_151",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3epU697sU9E.1.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_152",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZABX9Cf3KSY.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_153",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.3.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_154",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZABX9Cf3KSY.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_155",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.3.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_156",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "O6_XM2Mn0lg.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_157",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "t2_J-RVP7EM.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_158",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "O6_XM2Mn0lg.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_159",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "t2_J-RVP7EM.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_160",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "f4ZzHtww6Tc.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_161",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3pxrECZYEAA.2.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_162",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "f4ZzHtww6Tc.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_163",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3pxrECZYEAA.2.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_164",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3pxrECZYEAA.2.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_165",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.6.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_166",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3pxrECZYEAA.2.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_167",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.6.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_168",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0kpu6VM3rZU.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_169",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5679.1.20.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_170",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0kpu6VM3rZU.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_171",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5679.1.20.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_172",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "u-dEnJpCGAQ.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_173",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "sLX9J2NBL3w.0.12.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_174",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "u-dEnJpCGAQ.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_175",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "sLX9J2NBL3w.0.12.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_176",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "yQLgp8trSDc.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_177",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "xBFcUI4z0Wk.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_178",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "yQLgp8trSDc.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_179",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "xBFcUI4z0Wk.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_180",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "upC8hjr2b4g.12.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_181",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5679.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_182",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "upC8hjr2b4g.12.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_183",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5679.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_184",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "sKJeTaIEldM.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_185",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "gOGFBkBqiI0.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_186",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "sKJeTaIEldM.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_187",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "gOGFBkBqiI0.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_188",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.7.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_189",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "molA_wwvFbk.9.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_190",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.7.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_191",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "molA_wwvFbk.9.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_192",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "anEdRKaWM-I.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_193",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom in?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3005.1.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_194",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "anEdRKaWM-I.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "zoom_in_vs_zoom_out.jsonl_195",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera zoom out?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3005.1.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

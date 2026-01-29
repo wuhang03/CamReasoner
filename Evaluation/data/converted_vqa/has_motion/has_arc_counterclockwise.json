@@ -1,0 +1,3722 @@
+[
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.53.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0OFBj7EjZ-g.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.53.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0OFBj7EjZ-g.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CbIWq4PGFCo.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "016570694b24f7fefbc284e65d330e11e053542bd6ae8c24194ac0823b82c1eb.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CbIWq4PGFCo.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "016570694b24f7fefbc284e65d330e11e053542bd6ae8c24194ac0823b82c1eb.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0BmANHSUbJg.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "z7HxJaKjVlU.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0BmANHSUbJg.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "z7HxJaKjVlU.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mixkit-sun-set-over-calm-beach-1949.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MuNyfqxAO6Y.8.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mixkit-sun-set-over-calm-beach-1949.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MuNyfqxAO6Y.8.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3m-ME9AXCTo.1.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3m-ME9AXCTo.1.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_20",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1470.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_21",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.3.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_22",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1470.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_23",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.3.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_24",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "B_8bbKn3amE.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_25",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "yGsVo0uIJVs.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_26",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "B_8bbKn3amE.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_27",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "yGsVo0uIJVs.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_28",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CbIWq4PGFCo.1.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_29",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "H4AZhS5WqKk.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_30",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CbIWq4PGFCo.1.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_31",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "H4AZhS5WqKk.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_32",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CbIWq4PGFCo.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_33",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5679.1.21.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_34",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CbIWq4PGFCo.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_35",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5679.1.21.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_36",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Vm-b2AVwARw.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_37",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "187.6.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_38",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Vm-b2AVwARw.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_39",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "187.6.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_40",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "P8JgTjTPIuk.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_41",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "9ddb5f18be693e72c2dc446d3909d2d59d7036be4466643a956c9fae5e03f977.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_42",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "P8JgTjTPIuk.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_43",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "9ddb5f18be693e72c2dc446d3909d2d59d7036be4466643a956c9fae5e03f977.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_44",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "676d3ce18a8d1c2ecd6a1efe377c3bb2b91f0eef8b1e2eeb47009421af2880a3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_45",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Hv_DRJZZ2qI.2.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_46",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "676d3ce18a8d1c2ecd6a1efe377c3bb2b91f0eef8b1e2eeb47009421af2880a3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_47",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Hv_DRJZZ2qI.2.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_48",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "vQwotuKuUzE.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_49",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Ni7AYED85z4.2.17.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_50",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "vQwotuKuUzE.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_51",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Ni7AYED85z4.2.17.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_52",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "augBci6Gic4.1.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_53",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_54",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "augBci6Gic4.1.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_55",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_56",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "vEvBpjCOBu0.6.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_57",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZpJpZGktliQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_58",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "vEvBpjCOBu0.6.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_59",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZpJpZGktliQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_60",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "l5RWa1D00ck.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_61",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RZs5Hz1klno.5.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_62",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "l5RWa1D00ck.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_63",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RZs5Hz1klno.5.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_64",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "gOuYC9SJf3U.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_65",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1hu1np_BI2M.9.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_66",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "gOuYC9SJf3U.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_67",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1hu1np_BI2M.9.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_68",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "TP_0Vv5F29I.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_69",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "upC8hjr2b4g.14.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_70",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "TP_0Vv5F29I.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_71",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "upC8hjr2b4g.14.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_72",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "l5RWa1D00ck.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_73",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KAer-wHAd38.5.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_74",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "l5RWa1D00ck.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_75",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KAer-wHAd38.5.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_76",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "urgDBUXShos.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_77",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "rz8KzLbdS7g.8.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_78",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "urgDBUXShos.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_79",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "rz8KzLbdS7g.8.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_80",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CbIWq4PGFCo.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_81",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "VKre9_wM3Mo.1.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_82",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CbIWq4PGFCo.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_83",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "VKre9_wM3Mo.1.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_84",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0Pzq0URbL2M.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_85",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "PIvOfcR77SQ.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_86",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0Pzq0URbL2M.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_87",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "PIvOfcR77SQ.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_88",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "l5RWa1D00ck.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_89",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "A_StkRKB1jU.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_90",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "l5RWa1D00ck.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_91",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "A_StkRKB1jU.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_92",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0ZH_3bcVRe4.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_93",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "QaRnEZFM6ZQ.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_94",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0ZH_3bcVRe4.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_95",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "QaRnEZFM6ZQ.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_96",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "LtXUoaZcp70.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_97",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "012c118a-b3092f3b.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_98",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "LtXUoaZcp70.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_99",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "012c118a-b3092f3b.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_100",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KB3KMUw54Hc.4.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_101",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "394cd3ffde533c8b364131cb7286c88786fc1892c52e78c2fa113e654363a9f7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_102",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KB3KMUw54Hc.4.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_103",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "394cd3ffde533c8b364131cb7286c88786fc1892c52e78c2fa113e654363a9f7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_104",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "vQwotuKuUzE.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_105",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "QMlfVwN3iTw.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_106",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "vQwotuKuUzE.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_107",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "QMlfVwN3iTw.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_108",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "VKre9_wM3Mo.5.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_109",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "piQsdrDKzzM.1.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_110",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "VKre9_wM3Mo.5.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_111",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "piQsdrDKzzM.1.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_112",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "l5RWa1D00ck.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_113",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "hpTEzp-6CkM.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_114",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "l5RWa1D00ck.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_115",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "hpTEzp-6CkM.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_116",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3m-ME9AXCTo.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_117",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0Pzq0URbL2M.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_118",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3m-ME9AXCTo.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_119",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0Pzq0URbL2M.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_120",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3m-ME9AXCTo.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_121",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MQugcNLFI9k.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_122",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3m-ME9AXCTo.1.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_123",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MQugcNLFI9k.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_124",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3m-ME9AXCTo.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_125",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "u35WIs62R2M.1.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_126",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3m-ME9AXCTo.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_127",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "u35WIs62R2M.1.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_128",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MQugcNLFI9k.6.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_129",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "7xltSb3VBJQ.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_130",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MQugcNLFI9k.6.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_131",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "7xltSb3VBJQ.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_132",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ti231UvSvfQ.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_133",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "2254244.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_134",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ti231UvSvfQ.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_135",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "2254244.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_136",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Hby08EPZV1c.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_137",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_138",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Hby08EPZV1c.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_139",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_140",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CbIWq4PGFCo.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_141",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3HYfPz8lvDI.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_142",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CbIWq4PGFCo.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_143",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3HYfPz8lvDI.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_144",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "urgDBUXShos.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_145",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ce7a2df064c272a750b3eaa0e6ea6aa10e975f2df17b825549ca3c439aaf0317.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_146",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "urgDBUXShos.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_147",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ce7a2df064c272a750b3eaa0e6ea6aa10e975f2df17b825549ca3c439aaf0317.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_148",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "015a2bdd4aa4b5cfb60aacde6a3069ea3e4ef458c6f263148b2339b546ef8e86.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_149",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5454.1.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_150",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "015a2bdd4aa4b5cfb60aacde6a3069ea3e4ef458c6f263148b2339b546ef8e86.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_151",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5454.1.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_152",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4422.0.24.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_153",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "OCBYMQzG44U.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_154",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4422.0.24.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_155",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "OCBYMQzG44U.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_156",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Kapdye-diSM.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_157",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.13.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_158",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Kapdye-diSM.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_159",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.13.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_160",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "30KKutVrpDs.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_161",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.29.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_162",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "30KKutVrpDs.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_163",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.29.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_164",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "VKre9_wM3Mo.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_165",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5qKYrajRNwo.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_166",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "VKre9_wM3Mo.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_167",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5qKYrajRNwo.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_168",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "augBci6Gic4.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_169",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Ni7AYED85z4.2.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_170",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "augBci6Gic4.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_171",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Ni7AYED85z4.2.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_172",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "hHG1wva1B0w.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_173",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KF5p8VIbt0Y.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_174",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "hHG1wva1B0w.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_175",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KF5p8VIbt0Y.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_176",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "nPFRO_2vSbM.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_177",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "NZ3Pba3Xsk4.5.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_178",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "nPFRO_2vSbM.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_179",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "NZ3Pba3Xsk4.5.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_180",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CbIWq4PGFCo.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_181",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "7pqGzmdE5zE.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_182",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CbIWq4PGFCo.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_183",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "7pqGzmdE5zE.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_184",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MuNyfqxAO6Y.8.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_185",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0OFBj7EjZ-g.4.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_186",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MuNyfqxAO6Y.8.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_187",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0OFBj7EjZ-g.4.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_188",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3m-ME9AXCTo.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_189",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "LNHBMFCzznE.5.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_190",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3m-ME9AXCTo.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_191",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "LNHBMFCzznE.5.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_192",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "gisQqSu7r44.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_193",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5eDQ2SSsmEk.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_194",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "gisQqSu7r44.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_195",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5eDQ2SSsmEk.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_196",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.31.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_197",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CQYQKehqjgI.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_198",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.31.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_199",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CQYQKehqjgI.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_200",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "YakCuBMlQXQ.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_201",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mIiPt1YVkP8.10.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_202",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "YakCuBMlQXQ.4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_203",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mIiPt1YVkP8.10.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_204",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "hHG1wva1B0w.7.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_205",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4uGfFYzxWEg.4.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_206",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "hHG1wva1B0w.7.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_207",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4uGfFYzxWEg.4.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_208",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "GVr8pZmSa-c.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_209",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "eWpsukBVJAI.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_210",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "GVr8pZmSa-c.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_211",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "eWpsukBVJAI.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_212",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "9f90e75adbe65a4aa8ad6e82376fa4566845587c304d8663ce4d4fcab64ef783.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_213",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "H4AZhS5WqKk.2.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_214",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "9f90e75adbe65a4aa8ad6e82376fa4566845587c304d8663ce4d4fcab64ef783.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_215",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "H4AZhS5WqKk.2.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_216",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "eO_VWpZF08o.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_217",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_218",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "eO_VWpZF08o.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_219",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "168085.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_220",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Stgxxg-S4jo.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_221",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "027bd84e297a500c52d35ab4a67f37e62007e76483baad5687496911e441d65d.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_222",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Stgxxg-S4jo.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_223",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "027bd84e297a500c52d35ab4a67f37e62007e76483baad5687496911e441d65d.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_224",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3m-ME9AXCTo.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_225",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "m3bwXvQoAdo.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_226",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3m-ME9AXCTo.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_227",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "m3bwXvQoAdo.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_228",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "LZkl0_9xFOU.17.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_229",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4PcpGxihPac.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_230",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "LZkl0_9xFOU.17.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_231",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4PcpGxihPac.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_232",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "88vmzn_LufA.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_233",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "60.0.28.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_234",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "88vmzn_LufA.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_235",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "60.0.28.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_236",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "l5RWa1D00ck.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_237",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "l5RWa1D00ck.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_238",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "l5RWa1D00ck.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_239",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "l5RWa1D00ck.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_240",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3m-ME9AXCTo.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_241",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3HYfPz8lvDI.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_242",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3m-ME9AXCTo.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_243",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3HYfPz8lvDI.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_244",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.4.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_245",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move in a counterclockwise arc?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "LI7i6DQfh0o.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_246",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.4.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_arc_counterclockwise.jsonl_247",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs the camera free from any counterclockwise arc movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "LI7i6DQfh0o.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

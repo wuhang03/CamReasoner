@@ -1,0 +1,482 @@
+[
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Ejcl5Jk_4QU.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.16.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Ejcl5Jk_4QU.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.16.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5eDQ2SSsmEk.15.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1934.1.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5eDQ2SSsmEk.15.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1934.1.11.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3HYfPz8lvDI.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6h6bMAWLYAI.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3HYfPz8lvDI.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6h6bMAWLYAI.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JDaw5I_5hPk.0.23.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "H4AZhS5WqKk.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JDaw5I_5hPk.0.23.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "H4AZhS5WqKk.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "s7I9Ab9rXkU.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4PcpGxihPac.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "s7I9Ab9rXkU.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4PcpGxihPac.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_20",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4847.13.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_21",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "G_TLZr6ZbLE.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_22",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4847.13.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_23",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "G_TLZr6ZbLE.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_24",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "sJsu7Tv-fRY.7.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_25",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "2519.5.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_26",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "sJsu7Tv-fRY.7.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_27",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "2519.5.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_28",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "69PPD7ZUJPc.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_29",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt downward without any other camera movements?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "gooWdc6kb80.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_30",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "69PPD7ZUJPc.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_has_tilt_down_and_not_only.jsonl_31",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera not just tilt down?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "gooWdc6kb80.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

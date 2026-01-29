@@ -1,0 +1,1382 @@
+[
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "iXzposKQzvs.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MK_p4kzcPVY.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "iXzposKQzvs.2.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MK_p4kzcPVY.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8SphTOiOe6k.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8SphTOiOe6k.2.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "un7JOh6x-c4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "t2_J-RVP7EM.10.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "un7JOh6x-c4.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "t2_J-RVP7EM.10.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4PcpGxihPac.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3pxrECZYEAA.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4PcpGxihPac.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3pxrECZYEAA.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZBsv_5fHtIg.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "TktL3QR8Yg8.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZBsv_5fHtIg.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "TktL3QR8Yg8.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_20",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RooDYxp5Fx8.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_21",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "2530.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_22",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RooDYxp5Fx8.3.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_23",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "2530.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_24",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "M0jmSsQ5ptw.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_25",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "fUjoIUTFH1I.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_26",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "M0jmSsQ5ptw.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_27",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "fUjoIUTFH1I.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_28",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "NZ3Pba3Xsk4.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_29",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "154586.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_30",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "NZ3Pba3Xsk4.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_31",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "154586.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_32",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "molA_wwvFbk.9.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_33",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RIz3klPET3o.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_34",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "molA_wwvFbk.9.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_35",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RIz3klPET3o.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_36",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "LNHBMFCzznE.5.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_37",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KI2lsdXJQ40.0.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_38",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "LNHBMFCzznE.5.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_39",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KI2lsdXJQ40.0.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_40",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8jT9ygmMvMg.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_41",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZkLQqywiwlY.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_42",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8jT9ygmMvMg.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_43",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZkLQqywiwlY.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_44",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "338.2.30.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_45",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_46",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "338.2.30.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_47",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_48",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "u-dEnJpCGAQ.15.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_49",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "qMeHR2Dc4mQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_50",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "u-dEnJpCGAQ.15.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_51",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "qMeHR2Dc4mQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_52",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "wrW0enIo2u8.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_53",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "GVr8pZmSa-c.6.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_54",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "wrW0enIo2u8.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_55",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "GVr8pZmSa-c.6.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_56",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "as8lT-q2_E8.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_57",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1hu1np_BI2M.7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_58",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "as8lT-q2_E8.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_59",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1hu1np_BI2M.7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_60",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "K3U7Ybik1wM.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_61",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0OFBj7EjZ-g.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_62",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "K3U7Ybik1wM.4.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_63",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0OFBj7EjZ-g.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_64",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "88vmzn_LufA.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_65",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CjPSzAtLzO8.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_66",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "88vmzn_LufA.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_67",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CjPSzAtLzO8.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_68",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "BruiisujNJY.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_69",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.15.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_70",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "BruiisujNJY.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_71",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.15.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_72",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "video_206294.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_73",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6YDWsGwz2lI.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_74",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "video_206294.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_75",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6YDWsGwz2lI.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_76",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "f4ZzHtww6Tc.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_77",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MuNyfqxAO6Y.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_78",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "f4ZzHtww6Tc.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_79",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MuNyfqxAO6Y.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_80",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Hv_DRJZZ2qI.2.22.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_81",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_82",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Hv_DRJZZ2qI.2.22.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_83",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6d270d88db28043321dd8a3e0e6204ce7aac74c6fd8916e0b244626e531f2733.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_84",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZpJpZGktliQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_85",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_86",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZpJpZGktliQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_87",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_88",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1hu1np_BI2M.11.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_89",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera pan left without moving laterally to the left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mIiPt1YVkP8.11.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_90",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1hu1np_BI2M.11.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "has_pan_left_not_truck_vs_has_truck_not_pan_left.jsonl_91",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera move laterally to the left without panning left?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mIiPt1YVkP8.11.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

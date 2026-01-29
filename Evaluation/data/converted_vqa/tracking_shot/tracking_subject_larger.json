@@ -1,0 +1,2162 @@
+[
+  {
+    "problem_id": "tracking_subject_larger.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "hpTEzp-6CkM.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0OFBj7EjZ-g.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "hpTEzp-6CkM.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0OFBj7EjZ-g.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "awPo_VZabRc.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "016570694b24f7fefbc284e65d330e11e053542bd6ae8c24194ac0823b82c1eb.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "awPo_VZabRc.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "016570694b24f7fefbc284e65d330e11e053542bd6ae8c24194ac0823b82c1eb.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "88vmzn_LufA.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "z7HxJaKjVlU.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "88vmzn_LufA.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "z7HxJaKjVlU.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "molA_wwvFbk.9.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MuNyfqxAO6Y.8.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "molA_wwvFbk.9.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MuNyfqxAO6Y.8.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "VaSlqE0Nx2Q.6.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "VaSlqE0Nx2Q.6.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_20",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "M0jmSsQ5ptw.3.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_21",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JGiXuXc3cao.3.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_22",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "M0jmSsQ5ptw.3.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_23",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JGiXuXc3cao.3.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_24",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ti231UvSvfQ.11.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_25",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "yGsVo0uIJVs.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_26",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ti231UvSvfQ.11.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_27",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "yGsVo0uIJVs.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_28",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "VaSlqE0Nx2Q.7.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_29",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "H4AZhS5WqKk.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_30",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "VaSlqE0Nx2Q.7.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_31",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "H4AZhS5WqKk.2.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_32",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "H4AZhS5WqKk.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_33",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5679.1.21.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_34",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "H4AZhS5WqKk.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_35",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5679.1.21.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_36",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "wqn8akChql4.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_37",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "187.6.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_38",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "wqn8akChql4.0.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_39",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "187.6.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_40",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "g7gPegf76Mw.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_41",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "9ddb5f18be693e72c2dc446d3909d2d59d7036be4466643a956c9fae5e03f977.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_42",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "g7gPegf76Mw.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_43",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "9ddb5f18be693e72c2dc446d3909d2d59d7036be4466643a956c9fae5e03f977.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_44",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CBRwF0LU3Ys.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_45",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Hv_DRJZZ2qI.2.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_46",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CBRwF0LU3Ys.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_47",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Hv_DRJZZ2qI.2.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_48",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "L0zS8z8YqJ8.2.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_49",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Ni7AYED85z4.2.17.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_50",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "L0zS8z8YqJ8.2.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_51",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Ni7AYED85z4.2.17.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_52",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3pxrECZYEAA.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_53",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "oRt5NPY7yYA.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_54",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3pxrECZYEAA.3.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_55",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "oRt5NPY7yYA.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_56",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1934.1.22.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_57",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZpJpZGktliQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_58",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1934.1.22.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_59",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZpJpZGktliQ.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_60",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "-2uIa-XMJC0.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_61",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "RZs5Hz1klno.5.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_62",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "-2uIa-XMJC0.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_63",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "RZs5Hz1klno.5.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_64",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "mIiPt1YVkP8.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_65",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1hu1np_BI2M.9.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_66",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "mIiPt1YVkP8.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_67",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1hu1np_BI2M.9.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_68",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "W7S2LT1xay0.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_69",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "upC8hjr2b4g.14.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_70",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "W7S2LT1xay0.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_71",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "upC8hjr2b4g.14.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_72",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CjPSzAtLzO8.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_73",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KAer-wHAd38.5.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_74",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CjPSzAtLzO8.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_75",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KAer-wHAd38.5.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_76",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "88vmzn_LufA.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_77",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "rz8KzLbdS7g.8.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_78",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "88vmzn_LufA.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_79",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "rz8KzLbdS7g.8.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_80",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "f4ZzHtww6Tc.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_81",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "VKre9_wM3Mo.1.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_82",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "f4ZzHtww6Tc.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_83",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "VKre9_wM3Mo.1.15.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_84",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "h1PjJ9_Yd2c.2.20.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_85",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "PIvOfcR77SQ.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_86",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "h1PjJ9_Yd2c.2.20.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_87",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "PIvOfcR77SQ.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_88",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3vBUREkRzug.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_89",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "A_StkRKB1jU.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_90",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3vBUREkRzug.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_91",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "A_StkRKB1jU.0.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_92",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "x6P57x1gx94.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_93",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "QaRnEZFM6ZQ.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_94",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "x6P57x1gx94.0.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_95",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "QaRnEZFM6ZQ.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_96",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "f4ZzHtww6Tc.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_97",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Gel59Iy3YhQ.53.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_98",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "f4ZzHtww6Tc.5.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_99",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Gel59Iy3YhQ.53.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_100",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.16.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_101",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "012c118a-b3092f3b.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_102",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.16.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_103",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "012c118a-b3092f3b.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_104",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.16.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_105",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "394cd3ffde533c8b364131cb7286c88786fc1892c52e78c2fa113e654363a9f7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_106",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.16.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_107",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "394cd3ffde533c8b364131cb7286c88786fc1892c52e78c2fa113e654363a9f7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_108",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "i82xURPkLWo.2.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_109",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "QMlfVwN3iTw.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_110",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "i82xURPkLWo.2.13.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_111",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "QMlfVwN3iTw.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_112",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8ouj_JN2ytI.0.28.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_113",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "piQsdrDKzzM.1.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_114",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8ouj_JN2ytI.0.28.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_115",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "piQsdrDKzzM.1.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_116",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "YBC2JaevzOI.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_117",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0Pzq0URbL2M.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_118",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "YBC2JaevzOI.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_119",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0Pzq0URbL2M.5.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_120",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "f4ZzHtww6Tc.5.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_121",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MQugcNLFI9k.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_122",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "f4ZzHtww6Tc.5.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_123",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MQugcNLFI9k.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_124",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3epU697sU9E.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_125",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "u35WIs62R2M.1.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_126",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3epU697sU9E.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_127",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "u35WIs62R2M.1.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_128",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "u-dEnJpCGAQ.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_129",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "7xltSb3VBJQ.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_130",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "u-dEnJpCGAQ.3.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_131",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "7xltSb3VBJQ.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_132",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "wIYD42DV3Ro.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_133",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "2254244.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_134",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "wIYD42DV3Ro.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_135",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "2254244.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_136",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1U2aVQDbJ3o.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_137",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_138",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1U2aVQDbJ3o.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_139",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4f3hG-5grlw.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_140",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Y-Ana439DgE.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_141",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject appear larger during the tracking shot?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3HYfPz8lvDI.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_142",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Y-Ana439DgE.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "tracking_subject_larger.jsonl_143",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the subject being tracked not appear larger in size?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3HYfPz8lvDI.4.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

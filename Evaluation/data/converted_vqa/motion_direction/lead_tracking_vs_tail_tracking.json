@@ -1,0 +1,1322 @@
+[
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "394cd3ffde533c8b364131cb7286c88786fc1892c52e78c2fa113e654363a9f7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "hpTEzp-6CkM.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "394cd3ffde533c8b364131cb7286c88786fc1892c52e78c2fa113e654363a9f7.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "hpTEzp-6CkM.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "awPo_VZabRc.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Hv_DRJZZ2qI.2.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "awPo_VZabRc.1.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Hv_DRJZZ2qI.2.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1018.1.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6303.0.21.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1018.1.7.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6303.0.21.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "190.2.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3005.1.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "190.2.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3005.1.8.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ti231UvSvfQ.11.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "M0jmSsQ5ptw.3.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ti231UvSvfQ.11.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "M0jmSsQ5ptw.3.16.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_20",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8iZ8RtiJq14.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_21",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "XN2VC7QFdTs.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_22",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8iZ8RtiJq14.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_23",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "XN2VC7QFdTs.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_24",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "ZXloF-qGW4U.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_25",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "1470.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_26",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "ZXloF-qGW4U.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_27",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "1470.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_28",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "H4AZhS5WqKk.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_29",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "HTMDNZOlUq4.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_30",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "H4AZhS5WqKk.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_31",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "HTMDNZOlUq4.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_32",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Oy8yQZ1Wg7k.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_33",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "awPo_VZabRc.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_34",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Oy8yQZ1Wg7k.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_35",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "awPo_VZabRc.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_36",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "hpTEzp-6CkM.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_37",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "MQugcNLFI9k.4.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_38",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "hpTEzp-6CkM.0.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_39",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "MQugcNLFI9k.4.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_40",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "190.2.12.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_41",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0xHjRq5hd9c.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_42",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "190.2.12.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_43",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0xHjRq5hd9c.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_44",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "g7gPegf76Mw.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_45",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "P8JgTjTPIuk.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_46",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "g7gPegf76Mw.1.6.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_47",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "P8JgTjTPIuk.3.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_48",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "nb69sgB5mG0.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_49",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "6303.0.14.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_50",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "nb69sgB5mG0.2.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_51",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "6303.0.14.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_52",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "toXyCmbHl3w.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_53",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "KdfhMulBsyk.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_54",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "toXyCmbHl3w.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_55",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "KdfhMulBsyk.2.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_56",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "-2uIa-XMJC0.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_57",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "0xHjRq5hd9c.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_58",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "-2uIa-XMJC0.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_59",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "0xHjRq5hd9c.0.9.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_60",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "W7S2LT1xay0.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_61",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "f4ZzHtww6Tc.5.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_62",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "W7S2LT1xay0.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_63",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "f4ZzHtww6Tc.5.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_64",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "y51VUsotZe4.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_65",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.1.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_66",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "y51VUsotZe4.1.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_67",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.1.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_68",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "IWv0EhEGmNI.16.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_69",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "HasIb5pfWkQ.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_70",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "IWv0EhEGmNI.16.4.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_71",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "HasIb5pfWkQ.3.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_72",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "8ouj_JN2ytI.0.28.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_73",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "CjPSzAtLzO8.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_74",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "8ouj_JN2ytI.0.28.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_75",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "CjPSzAtLzO8.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_76",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "61.1.22.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_77",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "vEvBpjCOBu0.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_78",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "61.1.22.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_79",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "vEvBpjCOBu0.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_80",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3115442.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_81",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "vEvBpjCOBu0.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_82",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3115442.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_83",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "vEvBpjCOBu0.0.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_84",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "pq8MBzYgZ88.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_85",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera moving ahead of the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "z9Bw94k7AxQ.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_86",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "pq8MBzYgZ88.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "lead_tracking_vs_tail_tracking.jsonl_87",
+    "problem": "Does the camera movement in this video match the following description?\n\nIs it a tracking shot with the camera following behind the subject?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "z9Bw94k7AxQ.0.10.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]

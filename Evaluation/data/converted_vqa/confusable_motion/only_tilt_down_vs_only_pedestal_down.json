@@ -1,0 +1,482 @@
+[
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_0",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "Ejcl5Jk_4QU.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_1",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "C4Ktho9cjYk.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_2",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "Ejcl5Jk_4QU.8.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_3",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "C4Ktho9cjYk.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_4",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5eDQ2SSsmEk.15.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_5",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "GjEImPidK4g.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_6",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5eDQ2SSsmEk.15.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_7",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "GjEImPidK4g.0.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_8",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "3HYfPz8lvDI.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_9",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "C4Ktho9cjYk.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_10",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "3HYfPz8lvDI.5.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_11",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "C4Ktho9cjYk.0.5.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_12",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "JDaw5I_5hPk.0.23.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_13",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "QaRnEZFM6ZQ.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_14",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "JDaw5I_5hPk.0.23.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_15",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "QaRnEZFM6ZQ.0.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_16",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "s7I9Ab9rXkU.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_17",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "y51VUsotZe4.8.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_18",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "s7I9Ab9rXkU.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_19",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "y51VUsotZe4.8.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_20",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "4847.13.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_21",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "HasIb5pfWkQ.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_22",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "4847.13.1.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_23",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "HasIb5pfWkQ.3.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_24",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "sJsu7Tv-fRY.7.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_25",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5eDQ2SSsmEk.5.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_26",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "sJsu7Tv-fRY.7.2.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_27",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5eDQ2SSsmEk.5.3.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_28",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "69PPD7ZUJPc.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_29",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only tilt down with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "5ClsAp49w3c.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_30",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>B</answer>",
+    "path": "69PPD7ZUJPc.0.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  },
+  {
+    "problem_id": "only_tilt_down_vs_only_pedestal_down.jsonl_31",
+    "problem": "Does the camera movement in this video match the following description?\n\nDoes the camera only move physically downward (pedestal down) with no other movement?",
+    "data_type": "video",
+    "problem_type": "multiple choice",
+    "options": [
+      "A. Yes",
+      "B. No"
+    ],
+    "process": "",
+    "solution": "<answer>A</answer>",
+    "path": "5ClsAp49w3c.2.0.mp4",
+    "data_source": "camerabench",
+    "dataset": "camerabench"
+  }
+]
