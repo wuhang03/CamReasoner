@@ -49,13 +49,13 @@
   <div class="is-size-5 publication-authors" style="font-size: 18px;">
     <span class="author-block">
       <sup>1</sup>University of California, Merced
-      &nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <sup>2</sup>The University of Queensland
-      &nbsp;&nbsp;&nbsp;&nbsp; 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <br><sup>3</sup>Institute of Computing Technology, Chinese Academy of Sciences
-      &nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <br><sup>4</sup>University at Buffalo, State University of New York
-      &nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <sup>5</sup>Ant Group
     </span>
     <span class="eql-cntrb"><small><br><sup>†</sup>Indicates Corresponding Author</small></span>
