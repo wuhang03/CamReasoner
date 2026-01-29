@@ -22,7 +22,7 @@
     </span>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <span class="author-block">
-      <a href="https://vanoracai.github.io/" target="_blank">Yujun Cai</a><sup>†2,5</sup>
+      <a href="https://vanoracai.github.io/" target="_blank">Yujun Cai</a><sup>†2,3</sup>
     </span>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <span class="author-block">
@@ -38,7 +38,7 @@
     </span>
     <br>
     <span class="author-block">
-      <a href="https://cse.buffalo.edu/~jsyuan/" target="_blank">Junsong Yuan</a><sup>4</sup>
+      <a href="https://cse.buffalo.edu/~jsyuan/" target="_blank">Junsong Yuan</a><sup>5</sup>
     </span>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <span class="author-block">
@@ -52,11 +52,11 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <sup>2</sup>The University of Queensland
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <br><sup>3</sup>Institute of Computing Technology, Chinese Academy of Sciences
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <br><sup>4</sup>University at Buffalo, State University of New York
+      <sup>3</sup>Ant Group
+      <br><sup>4</sup>Institute of Computing Technology, Chinese Academy of Sciences
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <sup>5</sup>Ant Group
+      <sup>5</sup>University at Buffalo, State University of New York
     </span>
     <span class="eql-cntrb"><small><br><sup>†</sup>Indicates Corresponding Author</small></span>
   </div>
