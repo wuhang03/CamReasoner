@@ -52,11 +52,10 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <sup>2</sup>The University of Queensland
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <sup>3</sup>Ant Group
       <br><sup>4</sup>Institute of Computing Technology, Chinese Academy of Sciences
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <sup>5</sup>University at Buffalo, State University of New York
+      <br><sup>5</sup>University at Buffalo, State University of New York
     </span>
     <span class="eql-cntrb"><small><br><sup>†</sup>Indicates Corresponding Author</small></span>
   </div>
