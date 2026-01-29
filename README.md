@@ -58,6 +58,10 @@
   </div>
 </div>
 
+<div align="center">
+    <img src="assets/affliation.png" alt="teaser" width="100%">
+</div>
+
 
 <div style='display: flex; gap: 0.25rem; justify-content: center; text-align: center;' align="center">
   <!-- <a href='LICENCE'><img src='https://img.shields.io/badge/License-Apache 2.0-g.svg'></a> -->
