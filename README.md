@@ -14,7 +14,7 @@
     </span>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <span class="author-block">
-      <a href="https://vanoracai.github.io/" target="_blank">Yujun Cai</a><sup>2</sup>
+      <a href="https://vanoracai.github.io/" target="_blank">Yujun Cai</a><sup>†2,5</sup>
     </span>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <span class="author-block">
@@ -34,7 +34,7 @@
     </span>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <span class="author-block">
-      <a href="https://wangywust.github.io/" target="_blank"> Yiwei Wang </a><sup>1†</sup>
+      <a href="https://wangywust.github.io/" target="_blank"> Yiwei Wang</a><sup>1</sup>
     </span>
   </div>
 
@@ -43,6 +43,7 @@
       <sup>2</sup>The University of Queensland, 
       <br><sup>3</sup>Institute of Computing Technology, Chinese Academy of Sciences,
       <br><sup>4</sup>University at Buffalo, State University of New York
+      <br><sup>5</sup>Ant Group
     </span>
     <span class="eql-cntrb"><small><br><sup>†</sup>Indicates Corresponding Author</small></span>
   </div>
@@ -67,10 +68,10 @@
 
 ## 🎯 Overview
 <div align="center">
-    <img src="assets/teaser.png" alt="teaser" width="90%">
+    <img src="assets/teaser.png" alt="teaser" width="100%">
 </div>
 
-Abstract: Understanding camera dynamics is a fundamental pillar of video spatial intelligence. However, existing multimodal models predominantly treat this task as a black-box classification, often confusing physically distinct motions by relying on superficial visual patterns rather than geometric cues. We present \textbf{CamReasoner}, a framework that reformulates camera movement understanding as a structured inference process to bridge the gap between perception and cinematic logic. Our approach centers on the Observation-Thinking-Answer (O-T-A) paradigm, which compels the model to decode spatio-temporal cues such as trajectories and view frustums within an explicit reasoning block. To instill this capability, we construct a Large-scale Inference Trajectory Suite comprising 18k SFT reasoning chains and 38k RL feedback samples. Notably, we are the \textbf{first to employ RL for logical alignment in this domain}, ensuring motion inferences are grounded in physical geometry rather than contextual guesswork. By penalizing hallucinations and enforcing consistency through task-specific rewards, CamReasoner achieves state-of-the-art performance across multiple tasks. All datasets and models will be open-sourced.
+Abstract: Understanding camera dynamics is a fundamental pillar of video spatial intelligence. However, existing multimodal models predominantly treat this task as a black-box classification, often confusing physically distinct motions by relying on superficial visual patterns rather than geometric cues. We present **CamReasoner**, a framework that reformulates camera movement understanding as a structured inference process to bridge the gap between perception and cinematic logic. Our approach centers on the Observation-Thinking-Answer (O-T-A) paradigm, which compels the model to decode spatio-temporal cues such as trajectories and view frustums within an explicit reasoning block. To instill this capability, we construct a Large-scale Inference Trajectory Suite comprising 18k SFT reasoning chains and 38k RL feedback samples. Notably, we are the **first to employ RL for logical alignment in this domain**, ensuring motion inferences are grounded in physical geometry rather than contextual guesswork. By penalizing hallucinations and enforcing consistency through task-specific rewards, CamReasoner achieves state-of-the-art performance across multiple tasks. All datasets and models will be open-sourced.
 
 
 ## 🕹️ Usage
