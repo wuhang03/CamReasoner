@@ -75,7 +75,7 @@ Abstract: Understanding camera dynamics is a fundamental pillar of video spatial
 
 ## 🕹️ Usage
 
-# Supervised Fine-tuning
+### Supervised Fine-tuning
 
 Supervised Fine-Tuning establishes a foundational reasoning baseline by injecting structured templates and domain-specific knowledge, enabling the model to follow instructions and generate coherent initial responses.
 
@@ -98,7 +98,7 @@ bash local_scripts/run_sft.sh
 
 Our proposed SFT dataset **CamReasoning-SFT-18k** is in [camerabench_sft.json](LLaMA-Factory/data/camerabench_sft.json)
 
-# Reinforcement Learning
+### Reinforcement Learning
 
 Reinforcement Learning drives the model to self-evolve through trial and error, refining the internal logic chain and optimizing decision-making performance beyond the limitations of static training data.
 
@@ -124,7 +124,7 @@ Our proposed RL dataset **CamReasoning-RL-38k** is in [camerabench_rl.json](Easy
 
 For more details for the SFT and RL environment installation, please refer to [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory),  [EasyR1](https://github.com/hiyouga/EasyR1)
 
-# Evaluation
+### Evaluation
 
 You can use CamReasoner-7B to inference and reproduce experimental results following this part.
 
