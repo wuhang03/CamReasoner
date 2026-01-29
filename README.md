@@ -9,6 +9,10 @@
 </div>
 
 
+<div align="center">
+    <img src="assets/affliation.png" alt="teaser" width="60%">
+</div>
+
 
 
 <div align="center">
@@ -58,9 +62,7 @@
   </div>
 </div>
 
-<div align="center">
-    <img src="assets/affliation.png" alt="teaser" width="80%">
-</div>
+
 
 
 <div style='display: flex; gap: 0.25rem; justify-content: center; text-align: center;' align="center">
