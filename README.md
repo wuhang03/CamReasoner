@@ -46,6 +46,8 @@
     </span>
   </div>
 
+
+  <br>
   <div class="is-size-5 publication-authors" style="font-size: 18px;">
     <span class="author-block">
       <sup>1</sup>University of California, Merced
