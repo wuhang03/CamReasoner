@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-    <img src="assets/affliation.png" alt="teaser" width="100%">
+    <img src="assets/affliation.png" alt="teaser" width="80%">
 </div>
 
 
