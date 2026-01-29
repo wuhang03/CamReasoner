@@ -61,7 +61,9 @@
 <!-- * [2024-04-05]: ⭐️⭐️⭐️ VCD is selected as Poster Highlight in CVPR 2024! (Top 11.9% in accepted papers)
 * [2023-11-29]: ⭐️ Paper of VCD online. Check out [this link](https://arxiv.org/abs/2311.16922) for details. -->
 
-* [2026-01-28]: 🚀 Codes released.
+
+* [2026-01-28]: 🚀 [CamReasoner-7B](https://huggingface.co/LaurentWu/CamReasoner-7B) released on Huggingface.
+* [2026-01-28]: 🚀 Codes and training dataset released.
 
 ## 🎯 Overview
 <div align="center">
@@ -71,6 +73,90 @@
 Abstract: Understanding camera dynamics is a fundamental pillar of video spatial intelligence. However, existing multimodal models predominantly treat this task as a black-box classification, often confusing physically distinct motions by relying on superficial visual patterns rather than geometric cues. We present \textbf{CamReasoner}, a framework that reformulates camera movement understanding as a structured inference process to bridge the gap between perception and cinematic logic. Our approach centers on the Observation-Thinking-Answer (O-T-A) paradigm, which compels the model to decode spatio-temporal cues such as trajectories and view frustums within an explicit reasoning block. To instill this capability, we construct a Large-scale Inference Trajectory Suite comprising 18k SFT reasoning chains and 38k RL feedback samples. Notably, we are the \textbf{first to employ RL for logical alignment in this domain}, ensuring motion inferences are grounded in physical geometry rather than contextual guesswork. By penalizing hallucinations and enforcing consistency through task-specific rewards, CamReasoner achieves state-of-the-art performance across multiple tasks. All datasets and models will be open-sourced.
 
 
+## 🕹️ Usage
+
+# Supervised Fine-tuning
+
+Supervised Fine-Tuning establishes a foundational reasoning baseline by injecting structured templates and domain-specific knowledge, enabling the model to follow instructions and generate coherent initial responses.
+
+```bash
+git clone https://github.com/wuhang03/CamReasoner
+cd CamReasoner
+
+# build SFT environment
+conda create -n sft python=3.11 
+conda activate sft
+cd LLaMA-Factory
+bash setup.sh
+
+# download data
+bash download.sh
+
+# run sft (modify parameters according to your need)
+bash local_scripts/run_sft.sh
+```
+
+Our proposed SFT dataset **CamReasoning-SFT-18k** is in [camerabench_sft.json](LLaMA-Factory/data/camerabench_sft.json)
+
+# Reinforcement Learning
+
+Reinforcement Learning drives the model to self-evolve through trial and error, refining the internal logic chain and optimizing decision-making performance beyond the limitations of static training data.
+
+```bash
+git clone https://github.com/wuhang03/CamReasoner
+cd CamReasoner
+
+# build RL environment
+conda create -n rl python=3.11 
+conda activate rl
+cd EasyR1
+bash setup.sh
+
+# download data
+bash download.sh
+
+# run rl (modify parameters according to your need)
+bash local_scripts/run_rl.sh
+```
+
+Our proposed RL dataset **CamReasoning-RL-32k** is in [camerabench_rl.json](EasyR1/camerabench_rl.json)
+
+
+For more details for the SFT and RL environment installation, please refer to [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory),  [EasyR1](https://github.com/hiyouga/EasyR1)
+
+# Evaluation
+
+You can use CamReasoner-7B to inference and reproduce experimental results following this part.
+
+```bash
+git clone https://github.com/wuhang03/CamReasoner
+cd CamReasoner
+
+# build RL environment
+conda create -n eval python=3.11 
+conda activate eval
+cd Evaluation
+bash setup.sh
+
+# download data
+python data_download.py
+
+# run rl (modify parameters according to your need)
+bash eval/eval.sh
+```
+
+## 📝 Acknowledgements
+
+We sincerely appreciate the contributions of the open-source community. The related projects are as follows: 
+* RL: [OneThinker](https://github.com/tulerfeng/OneThinker), [Video-R1](https://github.com/tulerfeng/Video-R1), [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1),  [EasyR1](https://github.com/hiyouga/EasyR1), [verl](https://github.com/volcengine/verl)
+* SFT: [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+* Evaluation: [CameraBench](https://github.com/sy77777en/CameraBench), [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
+
+
+
+<!-- Then, download the training datasets [[🤗 OneThinker-train-data](https://huggingface.co/datasets/OneThink/OneThinker-train-data)] and unzip all the data.
+
+The `onethinker_rl_train.json` file is for RL training while `onethinker_sft_image.json` and `onethinker_sft_video.json` is for SFT cold start. The json files end with `_unsampled` are unsampled full set. -->
 
 
 <!-- ## 🕹️ Usage
