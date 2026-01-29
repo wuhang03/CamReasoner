@@ -146,6 +146,19 @@ python data_download.py
 bash eval/eval.sh
 ```
 
+## 🏅 Experiments
+
+<div align="center">
+    <img src="assets/results_1.png" alt="teaser" width="100%">
+</div>
+
+<div align="center">
+    <img src="assets/results_2.png" alt="teaser" width="100%">
+</div>
+
+
+- **Please refer to [our paper]() for detailed experimental results.**
+
 ## 📌 Examples
 
 <div align="center">
