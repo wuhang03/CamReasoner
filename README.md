@@ -67,7 +67,7 @@
 
 ## 🎯 Overview
 <div align="center">
-    <img src="assets/teaser.png" alt="teaser" width="80%">
+    <img src="assets/teaser.png" alt="teaser" width="90%">
 </div>
 
 Abstract: Understanding camera dynamics is a fundamental pillar of video spatial intelligence. However, existing multimodal models predominantly treat this task as a black-box classification, often confusing physically distinct motions by relying on superficial visual patterns rather than geometric cues. We present \textbf{CamReasoner}, a framework that reformulates camera movement understanding as a structured inference process to bridge the gap between perception and cinematic logic. Our approach centers on the Observation-Thinking-Answer (O-T-A) paradigm, which compels the model to decode spatio-temporal cues such as trajectories and view frustums within an explicit reasoning block. To instill this capability, we construct a Large-scale Inference Trajectory Suite comprising 18k SFT reasoning chains and 38k RL feedback samples. Notably, we are the \textbf{first to employ RL for logical alignment in this domain}, ensuring motion inferences are grounded in physical geometry rather than contextual guesswork. By penalizing hallucinations and enforcing consistency through task-specific rewards, CamReasoner achieves state-of-the-art performance across multiple tasks. All datasets and models will be open-sourced.
@@ -119,7 +119,7 @@ bash download.sh
 bash local_scripts/run_rl.sh
 ```
 
-Our proposed RL dataset **CamReasoning-RL-32k** is in [camerabench_rl.json](EasyR1/camerabench_rl.json)
+Our proposed RL dataset **CamReasoning-RL-38k** is in [camerabench_rl.json](EasyR1/camerabench_rl.json)
 
 
 For more details for the SFT and RL environment installation, please refer to [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory),  [EasyR1](https://github.com/hiyouga/EasyR1)
