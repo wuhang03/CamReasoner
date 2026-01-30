@@ -158,7 +158,7 @@ bash setup.sh
 # download data
 python data_download.py
 
-# run rl (modify parameters according to your need)
+# run evaluation (modify parameters according to your need)
 bash eval/eval.sh
 ```
 
