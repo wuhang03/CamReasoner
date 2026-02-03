@@ -66,13 +66,13 @@
 
 
 
-<div style='display: flex; gap: 0.25rem; justify-content: center; text-align: center;' align="center">
-  <!-- <a href='LICENCE'><img src='https://img.shields.io/badge/License-Apache 2.0-g.svg'></a> -->
-  <!-- <a href='https://arxiv.org/abs/2507.00008'><img src='https://img.shields.io/badge/Paper-arxiv-red'></a>
-  <a href='https://www.techrxiv.org/users/933923/articles/1304524-dimo-gui-advancing-test-time-scaling-in-gui-grounding-via-modality-aware-visual-reasoning'><img src='https://img.shields.io/badge/Paper-TechRxiv-blue'></a>
-  <a href='https://wuhang03.github.io/DiMo-GUI-homepage/'><img src='https://img.shields.io/badge/Homepage-DiMo-green'></a> -->
-  <!-- <a href='https://twitter.com/Leon_L_S_C'><img src='https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Us'></a> -->
+<div style='display: flex; gap: 0.45rem; justify-content: center; text-align: center;' align="center">
+  <a href='https://arxiv.org/abs/2602.00181'><img src='https://img.shields.io/badge/Paper-arxiv-red'></a>
+  <a href='https://huggingface.co/LaurentWu/CamReasoner-7B'><img src='https://img.shields.io/badge/Model-HuggingFace-yellow'></a>
+  <a href='https://www.linkedin.com/posts/hang-wu-0873a7335_can-ai-truly-understand-camera-movement-activity-7424302278464933889-5zP8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQ9zacBilIcFlef1JqBa5oVq1DRx-HiDtM'><img src='https://img.shields.io/badge/Post-LinkedIn-blue'></a>
+  <a href='LICENCE'><img src='https://img.shields.io/badge/License-Apache 2.0-g.svg'></a>
 </div>
+
 
 ## 🔥 Update
 <!-- * [2024-04-05]: ⭐️⭐️⭐️ VCD is selected as Poster Highlight in CVPR 2024! (Top 11.9% in accepted papers)
