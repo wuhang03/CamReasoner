@@ -149,7 +149,7 @@ You can use CamReasoner-7B to inference and reproduce experimental results follo
 git clone https://github.com/wuhang03/CamReasoner
 cd CamReasoner
 
-# build RL environment
+# build evaluation environment
 conda create -n eval python=3.11 
 conda activate eval
 cd Evaluation
