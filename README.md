@@ -183,6 +183,17 @@ bash eval/eval.sh
 
 **Qualitative results** across four typical camera movements. For each case, we visualize the temporal frame sequence alongside the CamReasoner-7B response. The model demonstrates robust spatial reasoning by generating detailed *<observation>* of visual cues and a logical *<think>* process to accurately identify the movement and provide the final *<answer>*.
 
+## 📑 Citation
+If you find our project useful, we hope you can star our repo and cite our paper as follows:
+```
+@article{wu2026camreasoner,
+  title={CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Reasoning},
+  author={Wu, Hang and Cai, Yujun and Li, Zehao and Ge, Haonan and Sun, Bowen and Yuan, Junsong and Wang, Yiwei},
+  journal={arXiv preprint arXiv:2602.00181},
+  year={2026}
+}
+```
+
 ## 📝 Acknowledgements
 
 We sincerely appreciate the contributions of the open-source community. The related projects are as follows: 
