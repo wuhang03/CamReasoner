@@ -141,9 +141,9 @@ Our proposed RL dataset **CamReasoning-RL-38k** is in [camerabench_rl.json](Easy
 
 For more details for the SFT and RL environment installation, please refer to [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory),  [EasyR1](https://github.com/hiyouga/EasyR1)
 
-### Evaluation
+### Inference
 
-You can use CamReasoner-7B to inference and reproduce experimental results following this part.
+You can use CamReasoner-7B to inference following this part.
 
 ```bash
 git clone https://github.com/wuhang03/CamReasoner
@@ -161,6 +161,8 @@ python data_download.py
 # run evaluation (modify parameters according to your need)
 bash eval/eval.sh
 ```
+
+You can refer to [CameraBench](https://github.com/sy77777en/CameraBench) for evaluation details.
 
 ## 🏅 Experiments
 
