@@ -164,7 +164,7 @@ bash infer/infer.sh
 
 You can refer to the scripts and follow the instructions in [CameraBench](https://github.com/sy77777en/CameraBench) for evaluation.
 
-## 🏅 Training Curves
+## 📈 Training Curves
 
 <div align="center">
     <img src="assets/sft_curve.png" alt="teaser" width="80%">
