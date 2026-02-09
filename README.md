@@ -143,7 +143,7 @@ For more details for the SFT and RL environment installation, please refer to [L
 
 ### Inference
 
-You can use CamReasoner-7B to inference following this part.
+You can use CamReasoner-7B to inference and see the reasoning process following this part.
 
 ```bash
 git clone https://github.com/wuhang03/CamReasoner
@@ -162,7 +162,7 @@ python data_download.py
 bash eval/eval.sh
 ```
 
-You can refer to [CameraBench](https://github.com/sy77777en/CameraBench) for evaluation details.
+You can refer to the scripts in [CameraBench](https://github.com/sy77777en/CameraBench) for evaluation.
 
 ## 🏅 Experiments
 
