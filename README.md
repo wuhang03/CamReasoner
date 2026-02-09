@@ -149,20 +149,33 @@ You can use CamReasoner-7B to inference and see the reasoning process following 
 git clone https://github.com/wuhang03/CamReasoner
 cd CamReasoner
 
-# build evaluation environment
-conda create -n eval python=3.11 
-conda activate eval
-cd Evaluation
+# build inference environment
+conda create -n infer python=3.11 
+conda activate infer
+cd Inference
 bash setup.sh
 
 # download data
 python data_download.py
 
-# run evaluation (modify parameters according to your need)
-bash eval/eval.sh
+# run inference (modify parameters according to your need)
+bash infer/infer.sh
 ```
 
-You can refer to the scripts in [CameraBench](https://github.com/sy77777en/CameraBench) for evaluation.
+You can refer to the scripts and follow the instructions in [CameraBench](https://github.com/sy77777en/CameraBench) for evaluation.
+
+## 🏅 Training Curves
+
+<div align="center">
+    <img src="assets/sft_curve.png" alt="teaser" width="100%">
+</div>
+
+<div align="center">
+    <img src="assets/rewards_with_actor.png" alt="teaser" width="100%">
+</div>
+
+
+
 
 ## 🏅 Experiments
 
@@ -175,7 +188,7 @@ You can refer to the scripts in [CameraBench](https://github.com/sy77777en/Camer
 </div>
 
 
-- **Please refer to [our paper]() for detailed experimental results.**
+
 
 ## 📌 Examples
 
