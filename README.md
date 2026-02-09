@@ -167,12 +167,17 @@ You can refer to the scripts and follow the instructions in [CameraBench](https:
 ## 🏅 Training Curves
 
 <div align="center">
-    <img src="assets/sft_curve.png" alt="teaser" width="100%">
+    <img src="assets/sft_curve.png" alt="teaser" width="80%">
 </div>
 
+- SFT Training Curves.
+
 <div align="center">
-    <img src="assets/rewards_with_actor.png" alt="teaser" width="100%">
+    <img src="assets/rewards_with_actor.png" alt="teaser" width="80%">
 </div>
+
+
+- RL Training Curves.
 
 
 
