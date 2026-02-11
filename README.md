@@ -162,22 +162,14 @@ python data_download.py
 bash infer/infer.sh
 ```
 
-You can refer to the scripts and follow the instructions in [CameraBench](https://github.com/sy77777en/CameraBench) for evaluation.
+The evaluation data are from [CameraBench](https://github.com/sy77777en/CameraBench), including questions and videos.You can refer to [CameraBench](https://github.com/sy77777en/CameraBench) for more details.
 
 ## 📈 Training Curves
 
 <div align="center">
-    <img src="assets/sft_curve.png" alt="teaser" width="80%">
+    <img src="assets/curves.png" alt="teaser" width="100%">
 </div>
 
-- SFT Training Curves.
-
-<div align="center">
-    <img src="assets/rewards_with_actor.png" alt="teaser" width="80%">
-</div>
-
-
-- RL Training Curves.
 
 
 
