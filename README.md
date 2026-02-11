@@ -113,7 +113,7 @@ bash download.sh
 bash local_scripts/run_sft.sh
 ```
 
-Our proposed SFT dataset **CamReasoning-SFT-18k** is in [camerabench_sft.json](LLaMA-Factory/data/camerabench_sft.json)
+Our proposed SFT dataset **CamReasoning-SFT-18k** is in [camerabench_sft.json](LLaMA-Factory/data/camerabench_sft.json). If you want to train models on your own curated data, you can convert their format as shown in our json file.
 
 ### Reinforcement Learning
 
@@ -136,14 +136,14 @@ bash download.sh
 bash local_scripts/run_rl.sh
 ```
 
-Our proposed RL dataset **CamReasoning-RL-38k** is in [camerabench_rl.json](EasyR1/camerabench_rl.json)
+Our proposed RL dataset **CamReasoning-RL-38k** is in [camerabench_rl.json](EasyR1/camerabench_rl.json). If you want to train models on your own curated data, you can convert their format as shown in our json file.
 
 
 For more details for the SFT and RL environment installation, please refer to [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory),  [EasyR1](https://github.com/hiyouga/EasyR1)
 
 ### Inference
 
-You can use CamReasoner-7B to inference and see the reasoning process following this part.
+You can use CamReasoner-7B to inference and see the reasoning process following this part. We provide the results in [CamReasoner_binary](Inference/results/CamReasoner_binary.json) and [CamReasoner_vqa](Inference/results/CamReasoner_vqa.json) to help visualizing the observe-think-answer reasoning paradigm.
 
 ```bash
 git clone https://github.com/wuhang03/CamReasoner
