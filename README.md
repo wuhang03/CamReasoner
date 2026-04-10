@@ -143,7 +143,7 @@ For more details for the SFT and RL environment installation, please refer to [L
 
 ### Inference
 
-You can use CamReasoner-7B to inference and see the reasoning process following this part. We provide the results in [CamReasoner_binary](Inference/results/CamReasoner_binary.json) and [CamReasoner_vqa](Inference/results/CamReasoner_vqa.json) to help visualizing the observe-think-answer reasoning paradigm.
+You can use CamReasoner-7B to inference and see the reasoning process following this part. We provide the results in [CamReasoner_binary.json](Inference/results/CamReasoner_binary.json) and [CamReasoner_vqa.json](Inference/results/CamReasoner_vqa.json) to help visualizing the observe-think-answer reasoning paradigm.
 
 ```bash
 git clone https://github.com/wuhang03/CamReasoner
@@ -162,7 +162,9 @@ python data_download.py
 bash infer/infer.sh
 ```
 
-The evaluation data are from [CameraBench](https://github.com/sy77777en/CameraBench), including questions and videos.You can refer to [CameraBench](https://github.com/sy77777en/CameraBench) for more details.
+The evaluation data are from [CameraBench](https://github.com/sy77777en/CameraBench), including questions and videos. You can refer to [CameraBench](https://github.com/sy77777en/CameraBench) for more details.
+
+You can also refer to [ShotBench](https://github.com/Vchitect/ShotBench) and [RefineShot](https://github.com/wuhang03/RefineShot) for out-of-domain camera movement understanding evaluation and reasoning reliability evaluation. These evaluation can be run simply modifying `MODEL_NAME` and `CATEGORY` in evaluate_qwen.sh in [RefineShot](https://github.com/wuhang03/RefineShot).
 
 ## 📈 Training Curves
 
@@ -170,19 +172,6 @@ The evaluation data are from [CameraBench](https://github.com/sy77777en/CameraBe
     <img src="assets/curves.png" alt="teaser" width="100%">
 </div>
 
-
-
-
-
-## 🏅 Experiments
-
-<div align="center">
-    <img src="assets/results_1.png" alt="teaser" width="100%">
-</div>
-
-<div align="center">
-    <img src="assets/results_2.png" alt="teaser" width="100%">
-</div>
 
 
 
@@ -211,104 +200,12 @@ If you find our project useful, we hope you can star our repo and cite our paper
 We sincerely appreciate the contributions of the open-source community. The related projects are as follows: 
 * RL: [OneThinker](https://github.com/tulerfeng/OneThinker), [Video-R1](https://github.com/tulerfeng/Video-R1), [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1),  [EasyR1](https://github.com/hiyouga/EasyR1), [verl](https://github.com/volcengine/verl)
 * SFT: [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
-* Evaluation: [CameraBench](https://github.com/sy77777en/CameraBench), [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
-
-
-
-<!-- Then, download the training datasets [[🤗 OneThinker-train-data](https://huggingface.co/datasets/OneThink/OneThinker-train-data)] and unzip all the data.
-
-The `onethinker_rl_train.json` file is for RL training while `onethinker_sft_image.json` and `onethinker_sft_video.json` is for SFT cold start. The json files end with `_unsampled` are unsampled full set. -->
-
-
-<!-- ## 🕹️ Usage
-### Environment Setup
-```bash
-conda env create -n dimo-gui
-source activate dimo-gui
-cd DiMo-GUI
-pip install -r requirements.txt
-```
-
-
-Note that the transformers version required by osatlas-4b is different from others, you need to run the following command to run osatlas-4b:
-```bash
-pip install transformers==4.37.2
-```
-
-
-### Data Preparation
-You can download the **ScreenSpot-Pro** dataset from this huggingface [link](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro), or use the download code below:
-
-```bash
-huggingface-cli download --resume-download  --repo-type dataset likaixin/ScreenSpot-Pro --local-dir ./data/pro
-```
-
-You can obtain the **ScreenSpot-V2** dataset from this [link](https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants), and refer to this [issue](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/issues/6)
-
-Make sure you put the data under `./data` path, or you may need to change the bash script.
-
-### Run DiMo-GUI
-
-Use the shell script to run DiMo-GUI:
-```bash
-bash run_ss_pro.sh
-bash run_ss_v2.sh
-```
-
-You can change the parameters like `models` and `max_iter` to run different experiments.
-
-We provide the json file of experimental results in the paper in `results` folder.
-
-## 🏅 Experiments
-- **Comparison of various models on ScreenSpot-Pro.**
-<div align="center">
-    <img src="images/table_1.png" alt="teaser" width="90%">
-</div>
-
-- **Comparison of various models on ScreenSpot-V2**
-<div align="center">
-    <img src="images/table_2.png" alt="teaser" width="80%">
-</div>
-
-
-- **Please refer to [our paper]() for detailed experimental results.**
-
-
-
-## 📌 Examples
-<div align="center">
-    <img src="images/results_1.png" alt="teaser" width="80%">
-</div>
-
-- **Examples on ScreenSpot-Pro.** On the left is the original model's prediction, where the red box represents the ground truth and the blue dot indicates the predicted coordinates. On the right is the result after integrating DiMo-GUI, where the model is able to localize more accurately according to the instruction
-
-
-<div align="center">
-    <img src="images/results_2.png" alt="teaser" width="80%">
-</div>
-
-- **Examples on ScreenSpot-V2.** On the Screenspot benchmark, which features relatively low resolution and simple scenes, DiMo-GUI also enhances the model's localization capabilities.
-
-
-
-## 📑 Citation
-If you find our project useful, we hope you can star our repo and cite our paper as follows:
-```
-@article{wu2025dimo,
-  title={DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning},
-  author={Wu, Hang and Chen, Hongkai and Cai, Yujun and Liu, Chang and Ye, Qingwen and Yang, Ming-Hsuan and Wang, Yiwei},
-  year={2025}
-}
-```
-
-
-## 📝 Related Projects
-Our repository is based on the following projects, we sincerely thank them for their great efforts and excellent work.
-- [ScreenSpot-Pro](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding): latest GUI grounding benchmark.
-- [Iterative-Narrowing](https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing): Iterative Narrowing for GUI grounding.
-- [OS-Atlas](https://github.com/OS-Copilot/OS-Atlas) , [UGround](https://github.com/OSU-NLP-Group/UGround): SOTA GUI agents.
+* Evaluation: [CameraBench](https://github.com/sy77777en/CameraBench), [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), [ShotBench](https://github.com/Vchitect/ShotBench)
 
 ## License
 
 This project is licensed under the terms of the Apache License 2.0.
-You are free to use, modify, and distribute this software under the conditions of the license. See the LICENSE file for details. -->
+You are free to use, modify, and distribute this software under the conditions of the license. See the LICENSE file for details.
+This project is intended for academic and research purposes only. Any commercial use is strictly prohibited without prior written consent.
+
+
